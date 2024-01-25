@@ -1,0 +1,12 @@
+<svg width="25px" height="25px" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="100" cy="100" r="95" stroke="black" stroke-width="2" fill="none" />
+
+    <!-- Chat Bubble -->
+    <path d="M50,60 Q30,80 50,100 L150,100 Q170,80 150,60 Z" fill="#4A90E2"/>
+
+    <!-- Question Mark -->
+    <text x="70" y="95" font-family="Arial" font-size="40" fill="white">?</text>
+</svg>
+
+  

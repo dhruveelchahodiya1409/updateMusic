@@ -1,0 +1,11 @@
+<svg width="100px" height="100px" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Circle for the Clock -->
+    <circle cx="50" cy="50" r="45" stroke="black" stroke-width="3" fill="none"/>
+
+    <!-- Clock Hands -->
+    <line x1="50" y1="50" x2="50" y2="20" stroke="black" stroke-width="3"/>
+    <line x1="50" y1="50" x2="70" y2="50" stroke="black" stroke-width="3"/>
+
+    <!-- Center Circle -->
+    <circle cx="50" cy="50" r="3" fill="black"/>
+</svg>
